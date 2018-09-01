@@ -17,7 +17,7 @@ QQ 平台上，由于中国互联网管理情况，因此 QQ 群仅设一主群�
 
 ### Telegram
 
-基于 Telegram 群特性，Telegram 上目前设主群及政治分群共两个群。主群由于历史原因名为「Frightened by UNO」，政治群名为「Frightened by Politics」。
+基于 Telegram 群特性，Telegram 上目前设主群及政治分群共两个群。主群名为「Frightened by Anything」，政治群名为「Frightened by Politics」。
 
 #### 主群群规
 
